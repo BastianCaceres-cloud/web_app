@@ -1,0 +1,4 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_seguros_poliza ,seguros.poliza,model_seguros_poliza,,1,1,1,1
+access_seguros_categorias ,seguros.categorias,model_seguros_categorias,,1,1,1,1
+
