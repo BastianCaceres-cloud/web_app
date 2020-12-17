@@ -101,7 +101,6 @@
               action="seguros.poliza_action_window"/>
         <menuitem name="Categorias" id="seguros.menu_categorias" parent="seguros.menu_root" 
               action="seguros.categorias_action_window"/>
-        <menuitem name="Más Vendidos" id="seguros.menu_más_vendidos" parent="seguros.menu_root" 
-              action="seguros.poliza_action_window"/>
+        
     </data>
 </odoo>
